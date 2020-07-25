@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(240,240,240);
+}
+.navlogo{
+    border-radius: 20px;
+}
+.heading{
+    font-weight: 800;
+    font-size: 100px;
+    color: #ffc319;
+}
+/* .heading-light{
+    font-weight: 800;
+    font-size: 100px;
+    color: #9019ff;
+} */
+.para{
+    font-size: 30px;
+}
+
+/* Css for blocks */
+
+.item1 div{
+    text-align: left;
+    width: 98%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 23px;
+    border: 1px solid rgb(61, 61, 61);
+    border-radius: 10px;
+    background-color: white;
+}
+.image{
+    justify-content: center;
+    padding: 23px;
+    width: 300px;
+    border-radius: 35px;
+}
+
+.strong{
+    /* text-align: center; */
+    font-size: 30px;
+    color: brown;
+    /* padding-bottom: 20px; */
+}
+.parahead{
+    border: 1px solid #8080805c;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 28px;
+    background-color: white;
+    text-align: center;
+}
+/* contact page */
+.links{
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid rgb(17, 17, 109);
+    border-radius: 23px;
+    color: blue;
+    padding: 5px 10px;
+}
+.links:hover{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 23px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.center_text{
+    text-align: center;
+}
+.center_link{
+    width: auto;
+    margin: auto;
+}
+/* .textbox{
+    padding: 5px 23px;
+    text-align: center;
+    width: 150px;
+} */
+.btn{
+    padding: 5px 20px;
+    border: 0.1px solid black;
+    border-radius: 23px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+/* contact page */
+.style-container{
+    border: 2px solid #cac3c3;
+    background-color: white;
+    border-radius: 8px;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 23px;
+}
+.contain{
+    padding: 0px;
+}
+.Main-heading{
+    margin: 20px;
+}
